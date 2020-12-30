@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter16_NetworkSocket", "16\Chapter16_NetworkSocket\Chapter16_NetworkSocket\Chapter16_NetworkSocket.vcxproj", "{76FB5480-FE5C-4F94-A14F-735687541139}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{546A498F-18C8-47B8-B45D-107D6D1BBEC8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\工作资料\我的图书库\专业理论图书\C语言学习资料\C 语言从入门到精通（第4版，明日科技，排版一般）.pdf = ..\..\..\工作资料\我的图书库\专业理论图书\C语言学习资料\C 语言从入门到精通（第4版，明日科技，排版一般）.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
